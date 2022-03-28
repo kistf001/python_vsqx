@@ -1,3 +1,5 @@
 jupiterNoteBook/
 .ipynb_checkpoints/
 __pycache__/
+
+dump/
